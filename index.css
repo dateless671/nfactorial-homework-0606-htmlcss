@@ -100,13 +100,18 @@ body {
   }
   #row8{
       justify-content: space-between;
+      display: flex;
+      flex: 1;
   }
   .yellExample9{
-      background-color: yellow;
-      width: 300px;
+      background-color: green;
+      width: 40px;
   }
   #row9{
-      justify-content: space-between;
+      justify-content: space-evenly;
+      display: flex;
+      flex: 1;
+      background-color: yellow;
   }
 
   
